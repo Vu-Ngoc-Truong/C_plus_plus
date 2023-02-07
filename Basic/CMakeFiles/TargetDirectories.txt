@@ -1,0 +1,3 @@
+/home/ngoctruong/code_ws/C++/Basic/CMakeFiles/rebuild_cache.dir
+/home/ngoctruong/code_ws/C++/Basic/CMakeFiles/edit_cache.dir
+/home/ngoctruong/code_ws/C++/Basic/CMakeFiles/vector.dir

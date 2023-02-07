@@ -1,0 +1,3 @@
+/home/ngoctruong/code_ws/C++/useLibrary/CMakeFiles/rebuild_cache.dir
+/home/ngoctruong/code_ws/C++/useLibrary/CMakeFiles/edit_cache.dir
+/home/ngoctruong/code_ws/C++/useLibrary/CMakeFiles/MyProject.dir
